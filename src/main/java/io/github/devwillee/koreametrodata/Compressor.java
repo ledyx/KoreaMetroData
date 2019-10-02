@@ -1,9 +1,9 @@
-package io.github.devwillee.koreametrographdata;
+package io.github.devwillee.koreametrodata;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.github.devwillee.koreametrographdata.core.Station;
+import io.github.devwillee.koreametrodata.core.Station;
 
 import java.io.File;
 import java.io.IOException;

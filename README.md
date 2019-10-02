@@ -1,4 +1,4 @@
-# Korea Metro Graph Data
+# Korea Metro Data
 
 한국 도시 철도의 이전/다음역 및 노선번호 정보의 Graph 자료구조 표현을 위한 정점(Vertices), 간선(Edges) 데이터
 

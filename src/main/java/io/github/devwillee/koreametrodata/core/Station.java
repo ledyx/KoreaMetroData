@@ -1,8 +1,8 @@
-package io.github.devwillee.koreametrographdata.core;
+package io.github.devwillee.koreametrodata.core;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import io.github.devwillee.koreametrographdata.core.graph.Vertex;
+import io.github.devwillee.koreametrodata.core.graph.Vertex;
 import lombok.Getter;
 import lombok.Setter;
 

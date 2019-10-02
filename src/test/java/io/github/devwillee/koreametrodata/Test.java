@@ -1,4 +1,4 @@
-package io.github.devwillee.koreametrographdata;
+package io.github.devwillee.koreametrodata;
 
 import java.io.IOException;
 

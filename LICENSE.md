@@ -1,6 +1,6 @@
-# KoreaMetroGraphData
+# Korea Metro Data
 
-Copyright (c) 2017 Joohyuk Lee
+Copyright (c) 2019 Joohyuk Lee
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
