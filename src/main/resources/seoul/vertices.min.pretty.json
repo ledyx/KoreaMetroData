@@ -2011,7 +2011,7 @@
     "station_cd" : "0217",
     "xpoint_wgs" : 37.511687,
     "ypoint_wgs" : 127.086162,
-    "station_nm_han" : "蠶室-驛",
+    "station_nm_han" : "蠶室새내",
     "station_nm_eng" : "Jamsilsaenae",
     "sub_station_nm_han" : null,
     "sub_station_nm_eng" : null
@@ -6155,7 +6155,7 @@
     "station_cd" : "4210",
     "xpoint_wgs" : 37.555878,
     "ypoint_wgs" : 126.625327,
-    "station_nm_han" : "靑羅國際城驛",
+    "station_nm_han" : "靑羅國際都市",
     "station_nm_eng" : "Cheongna Int'l City",
     "sub_station_nm_han" : null,
     "sub_station_nm_eng" : null
@@ -7289,7 +7289,7 @@
     "station_cd" : null,
     "xpoint_wgs" : 37.562434,
     "ypoint_wgs" : 126.801058,
-    "station_nm_han" : "金浦空港驛",
+    "station_nm_han" : "金浦空港",
     "station_nm_eng" : "Gimpo International Airport Station",
     "sub_station_nm_han" : null,
     "sub_station_nm_eng" : null
@@ -9341,7 +9341,7 @@
     "identifier" : "CURRENT",
     "mainLine" : true,
     "station_nm" : "판교",
-    "sub_station_nm" : null,
+    "sub_station_nm" : "판교테크노밸리",
     "line_num" : "S",
     "fr_code" : "D11",
     "station_cd" : "4311",
@@ -9349,8 +9349,8 @@
     "ypoint_wgs" : 127.111217,
     "station_nm_han" : "板橋",
     "station_nm_eng" : "Pangyo",
-    "sub_station_nm_han" : null,
-    "sub_station_nm_eng" : null
+    "sub_station_nm_han" : "板橋테크노밸리",
+    "sub_station_nm_eng" : "Pangyo Techno Valley"
   }, {
     "identifier" : "CURRENT",
     "mainLine" : true,
