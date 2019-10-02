@@ -1,4 +1,4 @@
-# KoreaMetroGraph (ex-StationGraph)
+# KoreaMetroGraphData
 
 Copyright (c) 2017 Joohyuk Lee
 
